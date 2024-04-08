@@ -1,0 +1,8 @@
+{
+  "jobs": [
+    {
+      "command": "*/10 * * * * echo 'hello world'",
+      "size": "S"
+    }
+  ]
+}
